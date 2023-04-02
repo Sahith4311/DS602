@@ -1,0 +1,3 @@
+hw : 90 
+Reamrks : Q6 runs with errors (y_train_pred not defined)
+lab : 100 
